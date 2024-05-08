@@ -1,4 +1,4 @@
-# Help
+# Terraform Resources Setup with LocalStack
 
 ### Initialize
 ```shell
